@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://efataai.com/">
-  <img src="assets/efata-ai-banner.png" alt="Efatá AI" width="100%">
+  <img src="efata-ai-banner.png" alt="Efatá AI" width="90%">
 </a>
 
 # Hi, I'm Marlen Delgado Flores 👋
